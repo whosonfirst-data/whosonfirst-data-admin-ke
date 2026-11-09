@@ -58,8 +58,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672951,
-        1091912313
+        85672951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -76,7 +75,6 @@
         {
             "continent_id":102191573,
             "country_id":85632329,
-            "county_id":1091912313,
             "locality_id":421171939,
             "region_id":85672951
         }
@@ -84,7 +82,7 @@
     "wof:id":421171939,
     "wof:lastmodified":1690938068,
     "wof:name":"Embakasi",
-    "wof:parent_id":1091912313,
+    "wof:parent_id":85672951,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:superseded_by":[],
