@@ -42,7 +42,7 @@
         "wk:page":"Ikumbi"
     },
     "wof:country":"KE",
-    "wof:geomhash":"97d261a33467a2b557072ce48ef3dc65",
+    "wof:geomhash":"00df968b980ebd37b858bf125c37eba2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.89794000000001,
     -0.78831
 ],
-  "geometry": {"coordinates":[36.89794000000001,-0.78831],"type":"Point"}
+  "geometry": {"coordinates":[36.89794,-0.78831],"type":"Point"}
 }

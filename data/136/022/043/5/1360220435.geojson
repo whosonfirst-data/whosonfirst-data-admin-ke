@@ -45,7 +45,7 @@
         "wk:page":"Angorangora"
     },
     "wof:country":"KE",
-    "wof:geomhash":"74f85efd30539458bd4342f50de6bbf2",
+    "wof:geomhash":"3e50e831f0a45ed2ee461af2469d8567",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     35.40045999999999,
     2.63469
 ],
-  "geometry": {"coordinates":[35.40045999999999,2.63469],"type":"Point"}
+  "geometry": {"coordinates":[35.40046,2.63469],"type":"Point"}
 }

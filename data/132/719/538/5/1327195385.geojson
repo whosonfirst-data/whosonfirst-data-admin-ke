@@ -46,7 +46,7 @@
         "wk:page":"Ngombeni"
     },
     "wof:country":"KE",
-    "wof:geomhash":"963cc29e7f43b3d7779bceeb7bbfe76f",
+    "wof:geomhash":"24ccde29018080bd62a2f8925f5cbc9c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     39.62844000000001,
     -4.12934
 ],
-  "geometry": {"coordinates":[39.62844000000001,-4.12934],"type":"Point"}
+  "geometry": {"coordinates":[39.62844,-4.12934],"type":"Point"}
 }

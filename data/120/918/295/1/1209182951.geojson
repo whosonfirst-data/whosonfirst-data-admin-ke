@@ -39,7 +39,7 @@
         "wk:page":"Gikure"
     },
     "wof:country":"KE",
-    "wof:geomhash":"fba51bac7b0d8e7a1070d47aa9ddd3df",
+    "wof:geomhash":"24e42c6bd187cb3bea6be10fb1f83568",
     "wof:hierarchy":[
         {
             "country_id":85632329,
@@ -62,5 +62,5 @@
     36.84419000000001,
     -0.96975
 ],
-  "geometry": {"coordinates":[36.84419000000001,-0.96975],"type":"Point"}
+  "geometry": {"coordinates":[36.84419,-0.96975],"type":"Point"}
 }

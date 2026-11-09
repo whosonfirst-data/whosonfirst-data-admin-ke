@@ -42,7 +42,7 @@
         "wk:page":"Kwakavisi"
     },
     "wof:country":"KE",
-    "wof:geomhash":"b60803334b7941bb162706ddee175605",
+    "wof:geomhash":"10075ed83792e35f88900eacd463e249",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.71667,
     -2.0
 ],
-  "geometry": {"coordinates":[37.71667,-2.0],"type":"Point"}
+  "geometry": {"coordinates":[37.71667,-2],"type":"Point"}
 }

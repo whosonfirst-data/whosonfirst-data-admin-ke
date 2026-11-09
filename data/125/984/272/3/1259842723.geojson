@@ -42,7 +42,7 @@
         "wk:page":"Kangeta"
     },
     "wof:country":"KE",
-    "wof:geomhash":"a052cc4952a9a28ef0db124c808e5fd6",
+    "wof:geomhash":"569bb13d8b3b877128daad6d12baac2c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.88594000000001,
     0.27506
 ],
-  "geometry": {"coordinates":[37.88594000000001,0.27506],"type":"Point"}
+  "geometry": {"coordinates":[37.88594,0.27506],"type":"Point"}
 }

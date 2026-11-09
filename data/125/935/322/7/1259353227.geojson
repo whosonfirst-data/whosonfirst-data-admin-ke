@@ -42,7 +42,7 @@
         "wk:page":"Gichiche"
     },
     "wof:country":"KE",
-    "wof:geomhash":"44c11f033f5182030ece59621fb47fc9",
+    "wof:geomhash":"870f2a3a4a6aacf471296efd316ee8f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.58694000000001,
     -0.43346
 ],
-  "geometry": {"coordinates":[37.58694000000001,-0.43346],"type":"Point"}
+  "geometry": {"coordinates":[37.58694,-0.43346],"type":"Point"}
 }

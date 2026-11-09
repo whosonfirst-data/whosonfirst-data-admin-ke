@@ -39,7 +39,7 @@
         "wk:page":"Dagamra"
     },
     "wof:country":"KE",
-    "wof:geomhash":"270a0ed118a352a36e03aac69783465b",
+    "wof:geomhash":"b08330e877151f366d16d5c88d8f0b61",
     "wof:hierarchy":[
         {
             "country_id":85632329,
@@ -62,5 +62,5 @@
     39.93839000000001,
     -3.18376
 ],
-  "geometry": {"coordinates":[39.93839000000001,-3.18376],"type":"Point"}
+  "geometry": {"coordinates":[39.93839,-3.18376],"type":"Point"}
 }

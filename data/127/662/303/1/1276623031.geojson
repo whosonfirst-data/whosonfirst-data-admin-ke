@@ -42,7 +42,7 @@
         "wk:page":"Dulukiza"
     },
     "wof:country":"KE",
-    "wof:geomhash":"3c51036adcddf925e22036fb37481ee2",
+    "wof:geomhash":"ec07cee4b299fdda1e05522a6e249c3c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     39.63209000000001,
     -3.3854
 ],
-  "geometry": {"coordinates":[39.63209000000001,-3.3854],"type":"Point"}
+  "geometry": {"coordinates":[39.63209,-3.3854],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Kibanguini"
     },
     "wof:country":"KE",
-    "wof:geomhash":"534ea2735f590bbc314f4276d18fe8f2",
+    "wof:geomhash":"b81e0d07d40593cce9cf40e11d6679db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.96667,
     -1.0
 ],
-  "geometry": {"coordinates":[36.96667,-1.0],"type":"Point"}
+  "geometry": {"coordinates":[36.96667,-1],"type":"Point"}
 }

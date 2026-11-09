@@ -42,7 +42,7 @@
         "wk:page":"Karirau"
     },
     "wof:country":"KE",
-    "wof:geomhash":"e2977c96ad9717129f281ee3ed558075",
+    "wof:geomhash":"da2eeeb16ad6448a8259bcf57b774bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.0,
     -0.66667
 ],
-  "geometry": {"coordinates":[37.0,-0.66667],"type":"Point"}
+  "geometry": {"coordinates":[37,-0.66667],"type":"Point"}
 }

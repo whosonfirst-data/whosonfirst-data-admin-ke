@@ -46,7 +46,7 @@
         "wk:page":"Ichagak"
     },
     "wof:country":"KE",
-    "wof:geomhash":"5b5fc981f2ec605981ef8d175f16d6ab",
+    "wof:geomhash":"458649e146d0c4e0f54996bd2ee03076",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     37.08734000000001,
     -0.81073
 ],
-  "geometry": {"coordinates":[37.08734000000001,-0.81073],"type":"Point"}
+  "geometry": {"coordinates":[37.08734,-0.81073],"type":"Point"}
 }

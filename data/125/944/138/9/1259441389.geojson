@@ -42,7 +42,7 @@
         "wk:page":"Kamunyuini"
     },
     "wof:country":"KE",
-    "wof:geomhash":"47500c0e7b2eea629d324e3cdf1c6ee2",
+    "wof:geomhash":"d641856518273ed990b4d16098e23f61",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.91667,
     -1.0
 ],
-  "geometry": {"coordinates":[36.91667,-1.0],"type":"Point"}
+  "geometry": {"coordinates":[36.91667,-1],"type":"Point"}
 }

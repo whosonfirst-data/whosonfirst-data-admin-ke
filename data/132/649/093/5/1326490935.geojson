@@ -42,7 +42,7 @@
         "wk:page":"Milimani_East"
     },
     "wof:country":"KE",
-    "wof:geomhash":"da2b043aea44e2bcc4046a521cf501df",
+    "wof:geomhash":"5fdbeb52cac110e01bff586e3676899e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     40.82852000000001,
     -1.77427
 ],
-  "geometry": {"coordinates":[40.82852000000001,-1.77427],"type":"Point"}
+  "geometry": {"coordinates":[40.82852,-1.77427],"type":"Point"}
 }

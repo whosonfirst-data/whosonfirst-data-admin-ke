@@ -42,7 +42,7 @@
         "wk:page":"Marikebuni"
     },
     "wof:country":"KE",
-    "wof:geomhash":"8f00f5cc04ddb65573fe93ae2140b807",
+    "wof:geomhash":"544d81cf5312503c19d79fd107d55b52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     40.11369000000001,
     -3.08985
 ],
-  "geometry": {"coordinates":[40.11369000000001,-3.08985],"type":"Point"}
+  "geometry": {"coordinates":[40.11369,-3.08985],"type":"Point"}
 }

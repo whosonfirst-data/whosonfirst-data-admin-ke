@@ -46,7 +46,7 @@
         "wk:page":"Kaufumbani"
     },
     "wof:country":"KE",
-    "wof:geomhash":"6df2a4bfd1f76948f9eb2013a69122a4",
+    "wof:geomhash":"7d374cc8f7123ec24907921b8715bdee",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     39.22369000000001,
     -4.64767
 ],
-  "geometry": {"coordinates":[39.22369000000001,-4.64767],"type":"Point"}
+  "geometry": {"coordinates":[39.22369,-4.64767],"type":"Point"}
 }

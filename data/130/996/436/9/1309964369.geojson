@@ -42,7 +42,7 @@
         "wk:page":"Gathiga"
     },
     "wof:country":"KE",
-    "wof:geomhash":"8e39724286c0034fb3715daa0207f59c",
+    "wof:geomhash":"294ad2e66b54283cfa40f89816ce9db1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.73739000000001,
     -1.21806
 ],
-  "geometry": {"coordinates":[36.73739000000001,-1.21806],"type":"Point"}
+  "geometry": {"coordinates":[36.73739,-1.21806],"type":"Point"}
 }

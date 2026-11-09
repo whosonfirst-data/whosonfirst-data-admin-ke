@@ -42,7 +42,7 @@
         "wk:page":"Ihinga"
     },
     "wof:country":"KE",
-    "wof:geomhash":"3657ade244d801306aa6062dec6601f9",
+    "wof:geomhash":"0a18d1913e1b290cc9b925f755531716",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.0,
     -0.76667
 ],
-  "geometry": {"coordinates":[37.0,-0.76667],"type":"Point"}
+  "geometry": {"coordinates":[37,-0.76667],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Lolnguswa"
     },
     "wof:country":"KE",
-    "wof:geomhash":"c56414dacf362b271c6b6df827ac453f",
+    "wof:geomhash":"83542798933b823f4cfd0192c01611ba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     36.65172000000001,
     -2.14492
 ],
-  "geometry": {"coordinates":[36.65172000000001,-2.14492],"type":"Point"}
+  "geometry": {"coordinates":[36.65172,-2.14492],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Kakuyuni"
     },
     "wof:country":"KE",
-    "wof:geomhash":"0a821eadefe256bec79e30382bbf7f2e",
+    "wof:geomhash":"837102f1b3d5edf6986c8ea5d3110ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     40.0,
     -3.21667
 ],
-  "geometry": {"coordinates":[40.0,-3.21667],"type":"Point"}
+  "geometry": {"coordinates":[40,-3.21667],"type":"Point"}
 }

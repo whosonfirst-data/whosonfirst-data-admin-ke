@@ -68,7 +68,7 @@
     },
     "wof:country":"KE",
     "wof:created":1459009743,
-    "wof:geomhash":"5ecfc945caddcb952cc8ac4589254a75",
+    "wof:geomhash":"1b847afc4df9a25aacda6712e1a10596",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -94,5 +94,5 @@
     39.71667,
     -4.0
 ],
-  "geometry": {"coordinates":[39.71667,-4.0],"type":"Point"}
+  "geometry": {"coordinates":[39.71667,-4],"type":"Point"}
 }

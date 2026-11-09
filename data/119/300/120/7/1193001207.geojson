@@ -42,7 +42,7 @@
         "wk:page":"Muringari"
     },
     "wof:country":"KE",
-    "wof:geomhash":"f1658129977148a52ac864dbce85f5fc",
+    "wof:geomhash":"ec54d62184bef39bdda6dd8870621e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.72629000000001,
     -0.48832
 ],
-  "geometry": {"coordinates":[37.72629000000001,-0.48832],"type":"Point"}
+  "geometry": {"coordinates":[37.72629,-0.48832],"type":"Point"}
 }

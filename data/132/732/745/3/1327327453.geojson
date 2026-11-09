@@ -45,7 +45,7 @@
         "wk:page":"Yatya"
     },
     "wof:country":"KE",
-    "wof:geomhash":"22a2fa9a6d940a7e4eeeb21bc4504083",
+    "wof:geomhash":"6aa7d79aa003504541ce659ef4ee320d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     35.92205999999999,
     0.78735
 ],
-  "geometry": {"coordinates":[35.92205999999999,0.78735],"type":"Point"}
+  "geometry": {"coordinates":[35.92206,0.78735],"type":"Point"}
 }

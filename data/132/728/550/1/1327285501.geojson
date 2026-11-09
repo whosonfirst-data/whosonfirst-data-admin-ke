@@ -42,7 +42,7 @@
         "wk:page":"Kirerwa"
     },
     "wof:country":"KE",
-    "wof:geomhash":"efdb4c343949b4d15227d282534d71d6",
+    "wof:geomhash":"5e76bc1834abe11d71427437fbafacae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.0,
     -0.85
 ],
-  "geometry": {"coordinates":[37.0,-0.85],"type":"Point"}
+  "geometry": {"coordinates":[37,-0.85],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Garashi"
     },
     "wof:country":"KE",
-    "wof:geomhash":"7e2c9fe7a51465858e155cd1afb8dd51",
+    "wof:geomhash":"440bd25a68a0e07dd85a6a5fc0dfefe8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     39.89174000000001,
     -3.13318
 ],
-  "geometry": {"coordinates":[39.89174000000001,-3.13318],"type":"Point"}
+  "geometry": {"coordinates":[39.89174,-3.13318],"type":"Point"}
 }

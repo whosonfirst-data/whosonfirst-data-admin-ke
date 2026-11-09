@@ -42,7 +42,7 @@
         "wk:page":"Koitilial"
     },
     "wof:country":"KE",
-    "wof:geomhash":"a9d6d151db25ca378aa6f9e775906ada",
+    "wof:geomhash":"d20223cdf771eb0825c0ba60b7b6933a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     35.62237000000001,
     0.93147
 ],
-  "geometry": {"coordinates":[35.62237000000001,0.93147],"type":"Point"}
+  "geometry": {"coordinates":[35.62237,0.93147],"type":"Point"}
 }

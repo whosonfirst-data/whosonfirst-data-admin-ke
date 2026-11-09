@@ -42,7 +42,7 @@
         "wk:page":"Kwa_Kitau"
     },
     "wof:country":"KE",
-    "wof:geomhash":"1b4adacd45401534567517c721b26413",
+    "wof:geomhash":"338569debedff7dc8ba7715a23d295c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.48333,
     -2.0
 ],
-  "geometry": {"coordinates":[37.48333,-2.0],"type":"Point"}
+  "geometry": {"coordinates":[37.48333,-2],"type":"Point"}
 }

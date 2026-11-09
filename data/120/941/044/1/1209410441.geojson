@@ -45,7 +45,7 @@
         "wk:page":"Chepkesin"
     },
     "wof:country":"KE",
-    "wof:geomhash":"23dab17473b2f07511bf467a75a11892",
+    "wof:geomhash":"ead421bc79f26853a7273baddf88f428",
     "wof:hierarchy":[
         {
             "country_id":85632329,
@@ -68,5 +68,5 @@
     35.88372000000001,
     0.89315
 ],
-  "geometry": {"coordinates":[35.88372000000001,0.89315],"type":"Point"}
+  "geometry": {"coordinates":[35.88372,0.89315],"type":"Point"}
 }

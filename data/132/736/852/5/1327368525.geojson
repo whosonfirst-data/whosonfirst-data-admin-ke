@@ -42,7 +42,7 @@
         "wk:page":"Huguini"
     },
     "wof:country":"KE",
-    "wof:geomhash":"1b02b1f5643dd9b6167fd7d00fd8a314",
+    "wof:geomhash":"ca184be5b77d07ced56120127b181425",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.85834000000001,
     -0.48783
 ],
-  "geometry": {"coordinates":[36.85834000000001,-0.48783],"type":"Point"}
+  "geometry": {"coordinates":[36.85834,-0.48783],"type":"Point"}
 }

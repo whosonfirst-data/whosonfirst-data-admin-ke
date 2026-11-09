@@ -42,7 +42,7 @@
         "wk:page":"Kambaa"
     },
     "wof:country":"KE",
-    "wof:geomhash":"7c594ad56c85565b3cff844aef7d4c3c",
+    "wof:geomhash":"c1cebaae4e34136264a99578bfc95c14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.65394000000001,
     -0.99101
 ],
-  "geometry": {"coordinates":[36.65394000000001,-0.99101],"type":"Point"}
+  "geometry": {"coordinates":[36.65394,-0.99101],"type":"Point"}
 }

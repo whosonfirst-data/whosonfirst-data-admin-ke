@@ -42,7 +42,7 @@
         "wk:page":"Busho"
     },
     "wof:country":"KE",
-    "wof:geomhash":"0f010398099a3cfd67ef7733f8470308",
+    "wof:geomhash":"deb81868085d5aa2ab86f15c6e4dd11b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     39.07214000000001,
     -3.89962
 ],
-  "geometry": {"coordinates":[39.07214000000001,-3.89962],"type":"Point"}
+  "geometry": {"coordinates":[39.07214,-3.89962],"type":"Point"}
 }

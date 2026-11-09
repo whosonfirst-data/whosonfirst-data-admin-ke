@@ -42,7 +42,7 @@
         "wk:page":"Galafahi"
     },
     "wof:country":"KE",
-    "wof:geomhash":"3614ec53d91d5d6ae55616346f43cbf2",
+    "wof:geomhash":"9dee5263e7bff604502a8d06babdb7db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     34.0,
     0.1
 ],
-  "geometry": {"coordinates":[34.0,0.1],"type":"Point"}
+  "geometry": {"coordinates":[34,0.1],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Heni_Village"
     },
     "wof:country":"KE",
-    "wof:geomhash":"16d533ae501556fd74fc81ccd0d95b59",
+    "wof:geomhash":"24d12134956b05c78a66d1c6b092c5b0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.55674000000001,
     -0.78286
 ],
-  "geometry": {"coordinates":[36.55674000000001,-0.78286],"type":"Point"}
+  "geometry": {"coordinates":[36.55674,-0.78286],"type":"Point"}
 }

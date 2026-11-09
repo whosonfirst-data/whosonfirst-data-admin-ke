@@ -46,7 +46,7 @@
         "wk:page":"Nairagie_Ngare"
     },
     "wof:country":"KE",
-    "wof:geomhash":"f17918ac4c910e34770a5891f655c3cb",
+    "wof:geomhash":"8eea705d9b60d177322db63b2a536147",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     36.16314000000001,
     -1.04444
 ],
-  "geometry": {"coordinates":[36.16314000000001,-1.04444],"type":"Point"}
+  "geometry": {"coordinates":[36.16314,-1.04444],"type":"Point"}
 }

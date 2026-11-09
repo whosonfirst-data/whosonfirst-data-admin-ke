@@ -44,7 +44,7 @@
         "gn:id":197254
     },
     "wof:country":"KE",
-    "wof:geomhash":"48dc7c9eb62c5a99e3ee58ae75ee595c",
+    "wof:geomhash":"18f544217d8e451bfbecf59f623d2977",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -70,5 +70,5 @@
     37.00429000000001,
     -0.82404
 ],
-  "geometry": {"coordinates":[37.00429000000001,-0.82404],"type":"Point"}
+  "geometry": {"coordinates":[37.00429,-0.82404],"type":"Point"}
 }

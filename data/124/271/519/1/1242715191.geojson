@@ -42,7 +42,7 @@
         "wk:page":"Lomut"
     },
     "wof:country":"KE",
-    "wof:geomhash":"f4806d5989081991ef52f8ac026520a1",
+    "wof:geomhash":"b51ac89e6f71de8bb3f3a82771f248d5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     35.58792000000001,
     1.39791
 ],
-  "geometry": {"coordinates":[35.58792000000001,1.39791],"type":"Point"}
+  "geometry": {"coordinates":[35.58792,1.39791],"type":"Point"}
 }

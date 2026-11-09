@@ -46,7 +46,7 @@
         "wk:page":"Gaithece"
     },
     "wof:country":"KE",
-    "wof:geomhash":"6c7087124e2652275b026cbd2fbbace0",
+    "wof:geomhash":"90c07b293e531112500d70e19eed5867",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     36.9,
     -1.0
 ],
-  "geometry": {"coordinates":[36.9,-1.0],"type":"Point"}
+  "geometry": {"coordinates":[36.9,-1],"type":"Point"}
 }

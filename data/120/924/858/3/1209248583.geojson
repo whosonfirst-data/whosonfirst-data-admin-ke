@@ -62,7 +62,7 @@
         "gn:id":8605137
     },
     "wof:country":"KE",
-    "wof:geomhash":"b46ac322b86504c64573efd5c954e9e4",
+    "wof:geomhash":"beadad95926b884ae625f7ea7d0a9477",
     "wof:hierarchy":[
         {
             "country_id":85632329,
@@ -85,5 +85,5 @@
     35.93004000000001,
     -0.36667
 ],
-  "geometry": {"coordinates":[35.93004000000001,-0.36667],"type":"Point"}
+  "geometry": {"coordinates":[35.93004,-0.36667],"type":"Point"}
 }

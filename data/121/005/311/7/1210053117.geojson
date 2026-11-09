@@ -46,7 +46,7 @@
         "wk:page":"Dida_Waredi"
     },
     "wof:country":"KE",
-    "wof:geomhash":"cb0cb0db3903b8f58f030b16a5ffa63a",
+    "wof:geomhash":"dde696195f226a1ace6cc4184aa1a592",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     40.39944000000001,
     -2.4187
 ],
-  "geometry": {"coordinates":[40.39944000000001,-2.4187],"type":"Point"}
+  "geometry": {"coordinates":[40.39944,-2.4187],"type":"Point"}
 }

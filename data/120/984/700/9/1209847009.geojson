@@ -46,7 +46,7 @@
         "wk:page":"Loichangamatak"
     },
     "wof:country":"KE",
-    "wof:geomhash":"7878b94d038b7fb367d7b19f94d5a89d",
+    "wof:geomhash":"592d59ac3475b230d6ba6889d929aeee",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     35.65127000000001,
     2.60488
 ],
-  "geometry": {"coordinates":[35.65127000000001,2.60488],"type":"Point"}
+  "geometry": {"coordinates":[35.65127,2.60488],"type":"Point"}
 }

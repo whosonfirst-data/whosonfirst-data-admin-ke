@@ -42,7 +42,7 @@
         "wk:page":"Karura_Kanyungu"
     },
     "wof:country":"KE",
-    "wof:geomhash":"ec7f255ea99eebe3c8b6f0969f3536dc",
+    "wof:geomhash":"bbc307ced45341691f3991bf7f2b1f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.72519000000001,
     -1.19977
 ],
-  "geometry": {"coordinates":[36.72519000000001,-1.19977],"type":"Point"}
+  "geometry": {"coordinates":[36.72519,-1.19977],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Kagwe"
     },
     "wof:country":"KE",
-    "wof:geomhash":"02834eaa90455c45df5c412649cf8ed7",
+    "wof:geomhash":"3f72e008bb333d0028bed6cbc5be469d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.74469000000001,
     -1.0038
 ],
-  "geometry": {"coordinates":[36.74469000000001,-1.0038],"type":"Point"}
+  "geometry": {"coordinates":[36.74469,-1.0038],"type":"Point"}
 }

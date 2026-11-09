@@ -42,7 +42,7 @@
         "wk:page":"Mto_Panga"
     },
     "wof:country":"KE",
-    "wof:geomhash":"628dea122d864c8605ebe13de5199758",
+    "wof:geomhash":"7e0d109e577a7ea3ccb95ccca311a2db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     39.7,
     -4.0
 ],
-  "geometry": {"coordinates":[39.7,-4.0],"type":"Point"}
+  "geometry": {"coordinates":[39.7,-4],"type":"Point"}
 }

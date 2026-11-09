@@ -42,7 +42,7 @@
         "wk:page":"Ngure"
     },
     "wof:country":"KE",
-    "wof:geomhash":"411ed254f71cdb0807bf2f6a6217695e",
+    "wof:geomhash":"1dde140ae8b8972d70b89f08257f4d5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.67789000000001,
     -1.23189
 ],
-  "geometry": {"coordinates":[36.67789000000001,-1.23189],"type":"Point"}
+  "geometry": {"coordinates":[36.67789,-1.23189],"type":"Point"}
 }

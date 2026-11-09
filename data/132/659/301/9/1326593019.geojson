@@ -42,7 +42,7 @@
         "wk:page":"Longopito"
     },
     "wof:country":"KE",
-    "wof:geomhash":"9ba0b865e1103d103c04bd2746743145",
+    "wof:geomhash":"e79a9a443d8f82514bfed7d147ff423d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     37.12224000000001,
     0.70163
 ],
-  "geometry": {"coordinates":[37.12224000000001,0.70163],"type":"Point"}
+  "geometry": {"coordinates":[37.12224,0.70163],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Kabati"
     },
     "wof:country":"KE",
-    "wof:geomhash":"0c3d54d7916ef9dc480562fba26c823c",
+    "wof:geomhash":"67b0636e8d6bdedde53355cf71597bbc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     37.10704000000001,
     -0.95241
 ],
-  "geometry": {"coordinates":[37.10704000000001,-0.95241],"type":"Point"}
+  "geometry": {"coordinates":[37.10704,-0.95241],"type":"Point"}
 }

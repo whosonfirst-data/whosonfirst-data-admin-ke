@@ -45,7 +45,7 @@
         "wk:page":"Ikuma"
     },
     "wof:country":"KE",
-    "wof:geomhash":"4a1de04251516a762e3a9abe950dfcb3",
+    "wof:geomhash":"0a4868bc4929d4a0d53e0c694fefd9b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     36.86667,
     -1.0
 ],
-  "geometry": {"coordinates":[36.86667,-1.0],"type":"Point"}
+  "geometry": {"coordinates":[36.86667,-1],"type":"Point"}
 }

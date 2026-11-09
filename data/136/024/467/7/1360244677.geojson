@@ -42,7 +42,7 @@
         "wk:page":"Kalulini"
     },
     "wof:country":"KE",
-    "wof:geomhash":"517b3d949934983f41439dd77581e992",
+    "wof:geomhash":"750e2506c38a8a9d665db712b437e717",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     38.00069000000001,
     -2.34295
 ],
-  "geometry": {"coordinates":[38.00069000000001,-2.34295],"type":"Point"}
+  "geometry": {"coordinates":[38.00069,-2.34295],"type":"Point"}
 }

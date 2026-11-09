@@ -42,7 +42,7 @@
         "wk:page":"Gathuga"
     },
     "wof:country":"KE",
-    "wof:geomhash":"7eac77a244f01757eb2ff21152bb233a",
+    "wof:geomhash":"18064b131fa392a91d37e5c0ec7edd86",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     36.8,
     -1.0
 ],
-  "geometry": {"coordinates":[36.8,-1.0],"type":"Point"}
+  "geometry": {"coordinates":[36.8,-1],"type":"Point"}
 }
