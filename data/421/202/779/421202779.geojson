@@ -46,7 +46,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008315,
         1091911773
     ],
     "wof:breaches":[],
@@ -66,11 +66,11 @@
             "country_id":85632329,
             "county_id":1091911773,
             "locality_id":421202779,
-            "region_id":85672943
+            "region_id":9895008315
         }
     ],
     "wof:id":421202779,
-    "wof:lastmodified":1566727047,
+    "wof:lastmodified":1795728400,
     "wof:name":"Nyali",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

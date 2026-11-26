@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008304,
         1091912585
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632329,
             "county_id":1091912585,
             "locality_id":1327006253,
-            "region_id":85672955
+            "region_id":9895008304
         }
     ],
     "wof:id":1327006253,
-    "wof:lastmodified":1566726956,
+    "wof:lastmodified":1795728400,
     "wof:name":"Lwala",
     "wof:parent_id":1091912585,
     "wof:placetype":"locality",

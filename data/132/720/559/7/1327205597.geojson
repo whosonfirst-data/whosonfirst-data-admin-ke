@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008304,
         890427529
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":890427529,
             "locality_id":1327205597,
-            "region_id":85672955
+            "region_id":9895008304
         }
     ],
     "wof:id":1327205597,
-    "wof:lastmodified":1566726966,
+    "wof:lastmodified":1795728400,
     "wof:name":"Wasis",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

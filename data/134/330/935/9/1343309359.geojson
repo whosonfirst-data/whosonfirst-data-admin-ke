@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008315,
         1091911773
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911773,
             "locality_id":1343309359,
-            "region_id":85672943
+            "region_id":9895008315
         }
     ],
     "wof:id":1343309359,
-    "wof:lastmodified":1566726968,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mahuruni",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

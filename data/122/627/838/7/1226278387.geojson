@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008338,
         1091912795
     ],
     "wof:breaches":[],
@@ -55,11 +55,11 @@
             "country_id":85632329,
             "county_id":1091912795,
             "locality_id":1226278387,
-            "region_id":85672963
+            "region_id":9895008338
         }
     ],
     "wof:id":1226278387,
-    "wof:lastmodified":1566727074,
+    "wof:lastmodified":1795728400,
     "wof:name":"Anglogitat",
     "wof:parent_id":1091912795,
     "wof:placetype":"locality",

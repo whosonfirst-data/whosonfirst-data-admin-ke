@@ -2,7 +2,7 @@
   "id": 85672963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2013",
     "edtf:inception":"uuuu",
     "geom:area":14.629057,
     "geom:area_square_m":180742489910.805725,
@@ -28,7 +28,7 @@
     "mps:latitude":1.3775,
     "mps:longitude":36.066078,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
     "name:ara_x_preferred":[
@@ -321,7 +321,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1695884360,
+    "wof:lastmodified":1795728400,
     "wof:name":"Rift Valley",
     "wof:parent_id":85632329,
     "wof:placetype":"region",
@@ -329,7 +329,22 @@
     "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"RV",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008297,
+        9895008298,
+        9895008301,
+        9895008306,
+        9895008308,
+        9895008316,
+        9895008326,
+        9895008327,
+        9895008328,
+        9895008332,
+        9895008337,
+        9895008338,
+        9895008339,
+        9895008342
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

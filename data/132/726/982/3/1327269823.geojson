@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008336,
         1091912169
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912169,
             "locality_id":1327269823,
-            "region_id":85672959
+            "region_id":9895008336
         }
     ],
     "wof:id":1327269823,
-    "wof:lastmodified":1566726965,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kamaende",
     "wof:parent_id":1091912169,
     "wof:placetype":"locality",

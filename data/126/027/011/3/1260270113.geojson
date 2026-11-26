@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008299,
         1091910985
     ],
     "wof:breaches":[],
@@ -55,11 +55,11 @@
             "country_id":85632329,
             "county_id":1091910985,
             "locality_id":1260270113,
-            "region_id":85672967
+            "region_id":9895008299
         }
     ],
     "wof:id":1260270113,
-    "wof:lastmodified":1566727021,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kamusinga",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

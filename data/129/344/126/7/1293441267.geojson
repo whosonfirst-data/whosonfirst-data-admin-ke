@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008325,
         1091911931
     ],
     "wof:breaches":[],
@@ -53,11 +53,11 @@
             "country_id":85632329,
             "county_id":1091911931,
             "locality_id":1293441267,
-            "region_id":85672947
+            "region_id":9895008325
         }
     ],
     "wof:id":1293441267,
-    "wof:lastmodified":1566726993,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mugumoini",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

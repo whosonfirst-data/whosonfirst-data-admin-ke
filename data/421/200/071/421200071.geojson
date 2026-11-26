@@ -249,7 +249,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008299,
         1091910985
     ],
     "wof:breaches":[],
@@ -269,11 +269,11 @@
             "country_id":85632329,
             "county_id":1091910985,
             "locality_id":421200071,
-            "region_id":85672967
+            "region_id":9895008299
         }
     ],
     "wof:id":421200071,
-    "wof:lastmodified":1690938063,
+    "wof:lastmodified":1795728400,
     "wof:name":"Bungoma",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

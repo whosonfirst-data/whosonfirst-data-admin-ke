@@ -224,7 +224,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008307,
         1091911445
     ],
     "wof:breaches":[],
@@ -247,11 +247,11 @@
             "country_id":85632329,
             "county_id":1091911445,
             "locality_id":421189971,
-            "region_id":85672967
+            "region_id":9895008307
         }
     ],
     "wof:id":421189971,
-    "wof:lastmodified":1690938056,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kakamega",
     "wof:parent_id":1091911445,
     "wof:placetype":"locality",

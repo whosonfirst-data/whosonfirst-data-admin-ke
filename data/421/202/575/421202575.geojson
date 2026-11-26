@@ -98,7 +98,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008309,
         1091911571
     ],
     "wof:breaches":[],
@@ -118,11 +118,11 @@
             "country_id":85632329,
             "county_id":1091911571,
             "locality_id":421202575,
-            "region_id":85672947
+            "region_id":9895008309
         }
     ],
     "wof:id":421202575,
-    "wof:lastmodified":1690938050,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kikuyu",
     "wof:parent_id":1091911571,
     "wof:placetype":"locality",

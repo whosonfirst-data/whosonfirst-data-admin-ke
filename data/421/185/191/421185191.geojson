@@ -118,7 +118,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008332,
         1091912581
     ],
     "wof:breaches":[],
@@ -138,11 +138,11 @@
             "country_id":85632329,
             "county_id":1091912581,
             "locality_id":421185191,
-            "region_id":85672963
+            "region_id":9895008332
         }
     ],
     "wof:id":421185191,
-    "wof:lastmodified":1690938069,
+    "wof:lastmodified":1795728400,
     "wof:name":"Wamba",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

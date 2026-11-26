@@ -2,7 +2,7 @@
   "id": 85672955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2013",
     "edtf:inception":"uuuu",
     "geom:area":1.323428,
     "geom:area_square_m":16363523112.392408,
@@ -27,7 +27,7 @@
     "mps:latitude":-0.505813,
     "mps:longitude":34.46339,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
     "name:ara_x_preferred":[
@@ -297,7 +297,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1695884870,
+    "wof:lastmodified":1795728400,
     "wof:name":"Nyanza",
     "wof:parent_id":85632329,
     "wof:placetype":"region",
@@ -305,7 +305,14 @@
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"NY",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008304,
+        9895008312,
+        9895008313,
+        9895008323,
+        9895008329,
+        9895008333
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

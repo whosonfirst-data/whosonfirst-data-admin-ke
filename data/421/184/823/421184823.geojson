@@ -51,7 +51,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008342,
         1091912907
     ],
     "wof:breaches":[],
@@ -71,11 +71,11 @@
             "country_id":85632329,
             "county_id":1091912907,
             "locality_id":421184823,
-            "region_id":85672963
+            "region_id":9895008342
         }
     ],
     "wof:id":421184823,
-    "wof:lastmodified":1566727050,
+    "wof:lastmodified":1795728400,
     "wof:name":"Makutano (2)",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

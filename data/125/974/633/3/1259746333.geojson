@@ -105,7 +105,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008305,
         1091911367
     ],
     "wof:breaches":[],
@@ -120,11 +120,11 @@
             "country_id":85632329,
             "county_id":1091911367,
             "locality_id":1259746333,
-            "region_id":85672959
+            "region_id":9895008305
         }
     ],
     "wof:id":1259746333,
-    "wof:lastmodified":1566727070,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kinna",
     "wof:parent_id":1091911367,
     "wof:placetype":"locality",

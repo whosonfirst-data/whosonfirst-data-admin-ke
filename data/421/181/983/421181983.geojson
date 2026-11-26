@@ -74,7 +74,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008326,
         1091912365
     ],
     "wof:breaches":[],
@@ -94,11 +94,11 @@
             "country_id":85632329,
             "county_id":1091912365,
             "locality_id":421181983,
-            "region_id":85672963
+            "region_id":9895008326
         }
     ],
     "wof:id":421181983,
-    "wof:lastmodified":1690938058,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kijabe",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

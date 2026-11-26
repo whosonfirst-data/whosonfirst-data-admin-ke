@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008342,
         1091912907
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632329,
             "county_id":1091912907,
             "locality_id":1260114321,
-            "region_id":85672963
+            "region_id":9895008342
         }
     ],
     "wof:id":1260114321,
-    "wof:lastmodified":1566727021,
+    "wof:lastmodified":1795728400,
     "wof:name":"Keringet",
     "wof:parent_id":1091912907,
     "wof:placetype":"locality",

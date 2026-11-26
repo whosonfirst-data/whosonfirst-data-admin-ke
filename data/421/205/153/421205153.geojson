@@ -84,7 +84,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008299,
         1091910985
     ],
     "wof:breaches":[],
@@ -109,11 +109,11 @@
             "country_id":85632329,
             "county_id":1091910985,
             "locality_id":421205153,
-            "region_id":85672967
+            "region_id":9895008299
         }
     ],
     "wof:id":421205153,
-    "wof:lastmodified":1706240322,
+    "wof:lastmodified":1795728400,
     "wof:name":"Malikisi",
     "wof:parent_id":1091910985,
     "wof:placetype":"locality",

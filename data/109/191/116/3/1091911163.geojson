@@ -62,7 +62,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955
+        9895008312
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +77,13 @@
             "continent_id":102191573,
             "country_id":85632329,
             "county_id":1091911163,
-            "region_id":85672955
+            "region_id":9895008312
         }
     ],
     "wof:id":1091911163,
-    "wof:lastmodified":1695886745,
+    "wof:lastmodified":1795728400,
     "wof:name":"Central Kisii",
-    "wof:parent_id":85672955,
+    "wof:parent_id":9895008312,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":491786,

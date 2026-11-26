@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008317,
         1091911825
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911825,
             "locality_id":1226292991,
-            "region_id":85672943
+            "region_id":9895008317
         }
     ],
     "wof:id":1226292991,
-    "wof:lastmodified":1566727074,
+    "wof:lastmodified":1795728400,
     "wof:name":"Arosen",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

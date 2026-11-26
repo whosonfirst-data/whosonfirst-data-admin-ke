@@ -148,7 +148,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672969
+        9895008320
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -163,13 +163,13 @@
             "continent_id":102191573,
             "country_id":85632329,
             "county_id":1091911881,
-            "region_id":85672969
+            "region_id":9895008320
         }
     ],
     "wof:id":1091911881,
-    "wof:lastmodified":1695886758,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mandera",
-    "wof:parent_id":85672969,
+    "wof:parent_id":9895008320,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":250372,

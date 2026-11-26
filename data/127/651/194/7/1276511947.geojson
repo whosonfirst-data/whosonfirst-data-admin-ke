@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008307,
         1091911445
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091911445,
             "locality_id":1276511947,
-            "region_id":85672967
+            "region_id":9895008307
         }
     ],
     "wof:id":1276511947,
-    "wof:lastmodified":1566726996,
+    "wof:lastmodified":1795728400,
     "wof:name":"Sigalagala",
     "wof:parent_id":1091911445,
     "wof:placetype":"locality",

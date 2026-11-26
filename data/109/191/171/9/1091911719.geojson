@@ -66,7 +66,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963
+        9895008297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,13 +82,13 @@
             "continent_id":102191573,
             "country_id":85632329,
             "county_id":1091911719,
-            "region_id":85672963
+            "region_id":9895008297
         }
     ],
     "wof:id":1091911719,
-    "wof:lastmodified":1695886745,
+    "wof:lastmodified":1795728400,
     "wof:name":"Koibatek",
-    "wof:parent_id":85672963,
+    "wof:parent_id":9895008297,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"BA",

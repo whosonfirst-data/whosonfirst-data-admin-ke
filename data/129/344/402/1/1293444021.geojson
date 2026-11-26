@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672969,
+        9895008320,
         1091911881
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911881,
             "locality_id":1293444021,
-            "region_id":85672969
+            "region_id":9895008320
         }
     ],
     "wof:id":1293444021,
-    "wof:lastmodified":1566726993,
+    "wof:lastmodified":1795728400,
     "wof:name":"Arda Dadaja",
     "wof:parent_id":1091911881,
     "wof:placetype":"locality",

@@ -40,7 +40,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008316,
         1091911809
     ],
     "wof:breaches":[],
@@ -56,11 +56,11 @@
             "country_id":85632329,
             "county_id":1091911809,
             "locality_id":1293650425,
-            "region_id":85672963
+            "region_id":9895008316
         }
     ],
     "wof:id":1293650425,
-    "wof:lastmodified":1566726980,
+    "wof:lastmodified":1795728400,
     "wof:name":"Lamuria",
     "wof:parent_id":1091911809,
     "wof:placetype":"locality",

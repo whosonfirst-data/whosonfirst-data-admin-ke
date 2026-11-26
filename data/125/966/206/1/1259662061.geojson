@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008298,
         1091910907
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091910907,
             "locality_id":1259662061,
-            "region_id":85672963
+            "region_id":9895008298
         }
     ],
     "wof:id":1259662061,
-    "wof:lastmodified":1566727069,
+    "wof:lastmodified":1795728400,
     "wof:name":"Chemaner",
     "wof:parent_id":1091910907,
     "wof:placetype":"locality",

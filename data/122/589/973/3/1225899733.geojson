@@ -48,7 +48,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008312,
         1091911163
     ],
     "wof:breaches":[],
@@ -63,11 +63,11 @@
             "country_id":85632329,
             "county_id":1091911163,
             "locality_id":1225899733,
-            "region_id":85672955
+            "region_id":9895008312
         }
     ],
     "wof:id":1225899733,
-    "wof:lastmodified":1566727077,
+    "wof:lastmodified":1795728400,
     "wof:name":"Riana",
     "wof:parent_id":1091911163,
     "wof:placetype":"locality",

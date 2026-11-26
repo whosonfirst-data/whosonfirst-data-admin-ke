@@ -332,7 +332,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008339,
         1091912837
     ],
     "wof:breaches":[],
@@ -358,11 +358,11 @@
             "country_id":85632329,
             "county_id":1091912837,
             "locality_id":890433257,
-            "region_id":85672963
+            "region_id":9895008339
         }
     ],
     "wof:id":890433257,
-    "wof:lastmodified":1690938075,
+    "wof:lastmodified":1795728400,
     "wof:name":"Eldoret",
     "wof:parent_id":1091912837,
     "wof:placetype":"locality",

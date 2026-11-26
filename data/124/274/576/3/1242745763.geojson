@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008312,
         1091911277
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091911277,
             "locality_id":1242745763,
-            "region_id":85672955
+            "region_id":9895008312
         }
     ],
     "wof:id":1242745763,
-    "wof:lastmodified":1566727056,
+    "wof:lastmodified":1795728400,
     "wof:name":"Etago",
     "wof:parent_id":1091911277,
     "wof:placetype":"locality",

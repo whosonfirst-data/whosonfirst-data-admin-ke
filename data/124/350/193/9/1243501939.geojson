@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008314,
         1091912293
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091912293,
             "locality_id":1243501939,
-            "region_id":85672959
+            "region_id":9895008314
         }
     ],
     "wof:id":1243501939,
-    "wof:lastmodified":1566727060,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kimuu",
     "wof:parent_id":1091912293,
     "wof:placetype":"locality",

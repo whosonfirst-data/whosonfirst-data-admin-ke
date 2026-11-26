@@ -30,7 +30,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008309,
         1091911571
     ],
     "wof:breaches":[],
@@ -47,11 +47,11 @@
             "country_id":85632329,
             "county_id":1091911571,
             "localadmin_id":890442267,
-            "region_id":85672947
+            "region_id":9895008309
         }
     ],
     "wof:id":890442267,
-    "wof:lastmodified":1566727053,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kiratina Sub-Location",
     "wof:parent_id":1091911571,
     "wof:placetype":"localadmin",

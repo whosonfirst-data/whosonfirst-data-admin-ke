@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008327,
         1091912403
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912403,
             "locality_id":1276590791,
-            "region_id":85672963
+            "region_id":9895008327
         }
     ],
     "wof:id":1276590791,
-    "wof:lastmodified":1566726998,
+    "wof:lastmodified":1795728400,
     "wof:name":"Arwos",
     "wof:parent_id":1091912403,
     "wof:placetype":"locality",

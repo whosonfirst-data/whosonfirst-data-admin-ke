@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008331,
         1091912541
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912541,
             "locality_id":1310441825,
-            "region_id":85672947
+            "region_id":9895008331
         }
     ],
     "wof:id":1310441825,
-    "wof:lastmodified":1566727029,
+    "wof:lastmodified":1795728400,
     "wof:name":"Gakanga",
     "wof:parent_id":1091912541,
     "wof:placetype":"locality",

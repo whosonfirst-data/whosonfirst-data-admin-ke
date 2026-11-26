@@ -67,7 +67,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008315,
         1091911773
     ],
     "wof:breaches":[],
@@ -87,11 +87,11 @@
             "country_id":85632329,
             "county_id":1091911773,
             "locality_id":890442935,
-            "region_id":85672943
+            "region_id":9895008315
         }
     ],
     "wof:id":890442935,
-    "wof:lastmodified":1690938074,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kwale",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

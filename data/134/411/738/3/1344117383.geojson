@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008317,
         1091911825
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632329,
             "county_id":1091911825,
             "locality_id":1344117383,
-            "region_id":85672943
+            "region_id":9895008317
         }
     ],
     "wof:id":1344117383,
-    "wof:lastmodified":1566726974,
+    "wof:lastmodified":1795728400,
     "wof:name":"Majengo",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

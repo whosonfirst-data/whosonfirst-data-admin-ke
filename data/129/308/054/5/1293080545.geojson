@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008300,
         1091911075
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091911075,
             "locality_id":1293080545,
-            "region_id":85672967
+            "region_id":9895008300
         }
     ],
     "wof:id":1293080545,
-    "wof:lastmodified":1566726982,
+    "wof:lastmodified":1795728400,
     "wof:name":"Bulemia",
     "wof:parent_id":1091911075,
     "wof:placetype":"locality",

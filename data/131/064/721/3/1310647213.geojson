@@ -192,7 +192,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008317,
         1091911825
     ],
     "wof:breaches":[],
@@ -207,11 +207,11 @@
             "country_id":85632329,
             "county_id":1091911825,
             "locality_id":1310647213,
-            "region_id":85672943
+            "region_id":9895008317
         }
     ],
     "wof:id":1310647213,
-    "wof:lastmodified":1566727027,
+    "wof:lastmodified":1795728400,
     "wof:name":"Moa",
     "wof:parent_id":1091911825,
     "wof:placetype":"locality",

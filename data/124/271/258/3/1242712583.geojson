@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008328,
         1091912717
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091912717,
             "locality_id":1242712583,
-            "region_id":85672963
+            "region_id":9895008328
         }
     ],
     "wof:id":1242712583,
-    "wof:lastmodified":1566727063,
+    "wof:lastmodified":1795728400,
     "wof:name":"Shartuka",
     "wof:parent_id":1091912717,
     "wof:placetype":"locality",

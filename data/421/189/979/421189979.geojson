@@ -102,7 +102,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008321,
         1091912007
     ],
     "wof:breaches":[],
@@ -120,11 +120,11 @@
             "country_id":85632329,
             "county_id":1091912007,
             "locality_id":421189979,
-            "region_id":85672959
+            "region_id":9895008321
         }
     ],
     "wof:id":421189979,
-    "wof:lastmodified":1690938056,
+    "wof:lastmodified":1795728400,
     "wof:name":"Loiyangalani",
     "wof:parent_id":1091912007,
     "wof:placetype":"locality",

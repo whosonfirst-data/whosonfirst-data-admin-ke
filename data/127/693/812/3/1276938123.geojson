@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008316,
         1091911809
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091911809,
             "locality_id":1276938123,
-            "region_id":85672963
+            "region_id":9895008316
         }
     ],
     "wof:id":1276938123,
-    "wof:lastmodified":1566726997,
+    "wof:lastmodified":1795728400,
     "wof:name":"Shamenei",
     "wof:parent_id":1091911809,
     "wof:placetype":"locality",

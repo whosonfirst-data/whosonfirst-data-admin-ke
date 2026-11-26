@@ -66,7 +66,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008310,
         1091911611
     ],
     "wof:breaches":[],
@@ -81,11 +81,11 @@
             "country_id":85632329,
             "county_id":1091911611,
             "locality_id":1243128377,
-            "region_id":85672943
+            "region_id":9895008310
         }
     ],
     "wof:id":1243128377,
-    "wof:lastmodified":1566727059,
+    "wof:lastmodified":1795728400,
     "wof:name":"Bamba",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

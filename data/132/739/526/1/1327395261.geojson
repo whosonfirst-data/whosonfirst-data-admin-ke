@@ -174,7 +174,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008315,
         1091911773
     ],
     "wof:breaches":[],
@@ -189,11 +189,11 @@
             "country_id":85632329,
             "county_id":1091911773,
             "locality_id":1327395261,
-            "region_id":85672943
+            "region_id":9895008315
         }
     ],
     "wof:id":1327395261,
-    "wof:lastmodified":1566726954,
+    "wof:lastmodified":1795728400,
     "wof:name":"Copra",
     "wof:parent_id":1091911773,
     "wof:placetype":"locality",

@@ -195,7 +195,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008323,
         1091912205
     ],
     "wof:breaches":[],
@@ -210,11 +210,11 @@
             "country_id":85632329,
             "county_id":1091912205,
             "locality_id":1276177073,
-            "region_id":85672955
+            "region_id":9895008323
         }
     ],
     "wof:id":1276177073,
-    "wof:lastmodified":1566726994,
+    "wof:lastmodified":1795728400,
     "wof:name":"Elisha",
     "wof:parent_id":1091912205,
     "wof:placetype":"locality",

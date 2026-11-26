@@ -2,7 +2,7 @@
   "id": 85672969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2013",
     "edtf:inception":"uuuu",
     "geom:area":10.359864,
     "geom:area_square_m":128014704143.029617,
@@ -27,7 +27,7 @@
     "mps:latitude":1.273341,
     "mps:longitude":40.192418,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
     "name:bel_x_preferred":[
@@ -247,7 +247,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1695884870,
+    "wof:lastmodified":1795728400,
     "wof:name":"North-Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",
@@ -255,7 +255,11 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"NE",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008303,
+        9895008320,
+        9895008341
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008310,
         1091911611
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911611,
             "locality_id":1242645847,
-            "region_id":85672943
+            "region_id":9895008310
         }
     ],
     "wof:id":1242645847,
-    "wof:lastmodified":1566727064,
+    "wof:lastmodified":1795728400,
     "wof:name":"Dungicha",
     "wof:parent_id":1091911611,
     "wof:placetype":"locality",

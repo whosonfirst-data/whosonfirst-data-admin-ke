@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008298,
         1091911035
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091911035,
             "locality_id":1226130715,
-            "region_id":85672963
+            "region_id":9895008298
         }
     ],
     "wof:id":1226130715,
-    "wof:lastmodified":1566727079,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kaptebengwet",
     "wof:parent_id":1091911035,
     "wof:placetype":"locality",

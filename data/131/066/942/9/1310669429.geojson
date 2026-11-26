@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008310,
         1091911877
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911877,
             "locality_id":1310669429,
-            "region_id":85672943
+            "region_id":9895008310
         }
     ],
     "wof:id":1310669429,
-    "wof:lastmodified":1566727031,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mkondo wa Simiti",
     "wof:parent_id":1091911877,
     "wof:placetype":"locality",

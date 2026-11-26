@@ -237,7 +237,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008321,
         1091912223
     ],
     "wof:breaches":[],
@@ -257,11 +257,11 @@
             "country_id":85632329,
             "county_id":1091912223,
             "locality_id":421168655,
-            "region_id":85672959
+            "region_id":9895008321
         }
     ],
     "wof:id":421168655,
-    "wof:lastmodified":1690938044,
+    "wof:lastmodified":1795728400,
     "wof:name":"Moyale",
     "wof:parent_id":1091912223,
     "wof:placetype":"locality",

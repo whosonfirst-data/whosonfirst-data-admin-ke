@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008332,
         1091912581
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091912581,
             "locality_id":1309942823,
-            "region_id":85672963
+            "region_id":9895008332
         }
     ],
     "wof:id":1309942823,
-    "wof:lastmodified":1566727044,
+    "wof:lastmodified":1795728400,
     "wof:name":"Nachola",
     "wof:parent_id":1091912581,
     "wof:placetype":"locality",

@@ -48,7 +48,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008306,
         1091911399
     ],
     "wof:breaches":[],
@@ -63,11 +63,11 @@
             "country_id":85632329,
             "county_id":1091911399,
             "locality_id":1225906793,
-            "region_id":85672963
+            "region_id":9895008306
         }
     ],
     "wof:id":1225906793,
-    "wof:lastmodified":1566727078,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kitengela",
     "wof:parent_id":1091911399,
     "wof:placetype":"locality",

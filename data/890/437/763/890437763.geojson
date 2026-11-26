@@ -128,7 +128,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947
+        9895008330
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -150,13 +150,13 @@
             "continent_id":102191573,
             "country_id":85632329,
             "county_id":890437763,
-            "region_id":85672947
+            "region_id":9895008330
         }
     ],
     "wof:id":890437763,
-    "wof:lastmodified":1695886746,
+    "wof:lastmodified":1795728400,
     "wof:name":"Nyandarua",
-    "wof:parent_id":85672947,
+    "wof:parent_id":9895008330,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":479902,

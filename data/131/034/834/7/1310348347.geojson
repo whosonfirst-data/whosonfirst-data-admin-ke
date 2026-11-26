@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008324,
         1091912207
     ],
     "wof:breaches":[],
@@ -53,11 +53,11 @@
             "country_id":85632329,
             "county_id":1091912207,
             "locality_id":1310348347,
-            "region_id":85672943
+            "region_id":9895008324
         }
     ],
     "wof:id":1310348347,
-    "wof:lastmodified":1566727031,
+    "wof:lastmodified":1795728400,
     "wof:name":"Jomvu",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

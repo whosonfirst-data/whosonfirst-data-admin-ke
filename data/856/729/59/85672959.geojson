@@ -2,7 +2,7 @@
   "id": 85672959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2013",
     "edtf:inception":"uuuu",
     "geom:area":12.773463,
     "geom:area_square_m":157813093806.752472,
@@ -27,7 +27,7 @@
     "mps:latitude":2.658131,
     "mps:longitude":37.932717,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
     "name:ara_x_preferred":[
@@ -290,7 +290,7 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1695884869,
+    "wof:lastmodified":1795728400,
     "wof:name":"Eastern",
     "wof:parent_id":85632329,
     "wof:placetype":"region",
@@ -298,7 +298,16 @@
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"EA",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008302,
+        9895008305,
+        9895008314,
+        9895008318,
+        9895008319,
+        9895008321,
+        9895008322,
+        9895008336
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

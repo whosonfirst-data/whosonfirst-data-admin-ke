@@ -74,7 +74,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008311,
         1091912291
     ],
     "wof:breaches":[],
@@ -94,11 +94,11 @@
             "country_id":85632329,
             "county_id":1091912291,
             "locality_id":421174185,
-            "region_id":85672947
+            "region_id":9895008311
         }
     ],
     "wof:id":421174185,
-    "wof:lastmodified":1690938053,
+    "wof:lastmodified":1795728400,
     "wof:name":"Sagana",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

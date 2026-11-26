@@ -70,7 +70,7 @@
     },
     "wof:belongsto":[
         85632329,
-        85672955
+        9895008313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,13 +86,13 @@
         {
             "campus_id":102541837,
             "country_id":85632329,
-            "region_id":85672955
+            "region_id":9895008313
         }
     ],
     "wof:id":102541837,
-    "wof:lastmodified":1690938036,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kisumu Airport",
-    "wof:parent_id":85672955,
+    "wof:parent_id":9895008313,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:superseded_by":[],

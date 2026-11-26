@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008339,
         1091912837
     ],
     "wof:breaches":[],
@@ -55,11 +55,11 @@
             "country_id":85632329,
             "county_id":1091912837,
             "locality_id":1327462863,
-            "region_id":85672963
+            "region_id":9895008339
         }
     ],
     "wof:id":1327462863,
-    "wof:lastmodified":1566726960,
+    "wof:lastmodified":1795728400,
     "wof:name":"Moiben",
     "wof:parent_id":1091912837,
     "wof:placetype":"locality",

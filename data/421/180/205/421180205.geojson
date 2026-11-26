@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008324,
         1091912207
     ],
     "wof:breaches":[],
@@ -56,11 +56,11 @@
             "country_id":85632329,
             "county_id":1091912207,
             "locality_id":421180205,
-            "region_id":85672943
+            "region_id":9895008324
         }
     ],
     "wof:id":421180205,
-    "wof:lastmodified":1566727048,
+    "wof:lastmodified":1795728400,
     "wof:name":"Makupa",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

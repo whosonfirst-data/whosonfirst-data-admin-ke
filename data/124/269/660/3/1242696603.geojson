@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008313,
         1091912511
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912511,
             "locality_id":1242696603,
-            "region_id":85672955
+            "region_id":9895008313
         }
     ],
     "wof:id":1242696603,
-    "wof:lastmodified":1566727058,
+    "wof:lastmodified":1795728400,
     "wof:name":"Pap Onditi",
     "wof:parent_id":1091912511,
     "wof:placetype":"locality",

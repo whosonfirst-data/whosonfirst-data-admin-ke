@@ -109,7 +109,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967
+        9895008300
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,13 +124,13 @@
             "continent_id":102191573,
             "country_id":85632329,
             "county_id":1091911075,
-            "region_id":85672967
+            "region_id":9895008300
         }
     ],
     "wof:id":1091911075,
-    "wof:lastmodified":1695886758,
+    "wof:lastmodified":1795728400,
     "wof:name":"Busia",
-    "wof:parent_id":85672967,
+    "wof:parent_id":9895008300,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"BS",

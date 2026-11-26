@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008321,
         1091912007
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632329,
             "county_id":1091912007,
             "locality_id":1226187483,
-            "region_id":85672959
+            "region_id":9895008321
         }
     ],
     "wof:id":1226187483,
-    "wof:lastmodified":1566727073,
+    "wof:lastmodified":1795728400,
     "wof:name":"Elmolo Village",
     "wof:parent_id":1091912007,
     "wof:placetype":"locality",

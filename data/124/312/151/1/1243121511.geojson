@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008319,
         1091911875
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632329,
             "county_id":1091911875,
             "locality_id":1243121511,
-            "region_id":85672959
+            "region_id":9895008319
         }
     ],
     "wof:id":1243121511,
-    "wof:lastmodified":1566727059,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mukaa",
     "wof:parent_id":1091911875,
     "wof:placetype":"locality",

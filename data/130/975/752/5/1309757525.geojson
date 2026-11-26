@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008325,
         1091912291
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912291,
             "locality_id":1309757525,
-            "region_id":85672947
+            "region_id":9895008325
         }
     ],
     "wof:id":1309757525,
-    "wof:lastmodified":1566727044,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kaweru",
     "wof:parent_id":1091912291,
     "wof:placetype":"locality",

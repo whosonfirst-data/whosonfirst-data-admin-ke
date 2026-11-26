@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008326,
         1091912365
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091912365,
             "locality_id":1260220921,
-            "region_id":85672963
+            "region_id":9895008326
         }
     ],
     "wof:id":1260220921,
-    "wof:lastmodified":1566727020,
+    "wof:lastmodified":1795728400,
     "wof:name":"Waterer",
     "wof:parent_id":1091912365,
     "wof:placetype":"locality",

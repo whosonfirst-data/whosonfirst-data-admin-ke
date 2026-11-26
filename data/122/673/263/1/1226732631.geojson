@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008302,
         1091911207
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911207,
             "locality_id":1226732631,
-            "region_id":85672959
+            "region_id":9895008302
         }
     ],
     "wof:id":1226732631,
-    "wof:lastmodified":1566727073,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kathugu",
     "wof:parent_id":1091911207,
     "wof:placetype":"locality",

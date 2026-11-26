@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008327,
         1091912403
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912403,
             "locality_id":1343900689,
-            "region_id":85672963
+            "region_id":9895008327
         }
     ],
     "wof:id":1343900689,
-    "wof:lastmodified":1566726969,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kamamut",
     "wof:parent_id":1091912403,
     "wof:placetype":"locality",

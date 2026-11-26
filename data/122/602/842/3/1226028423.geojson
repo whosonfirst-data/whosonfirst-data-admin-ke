@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008297,
         1091911719
     ],
     "wof:breaches":[],
@@ -53,11 +53,11 @@
             "country_id":85632329,
             "county_id":1091911719,
             "locality_id":1226028423,
-            "region_id":85672963
+            "region_id":9895008297
         }
     ],
     "wof:id":1226028423,
-    "wof:lastmodified":1566727074,
+    "wof:lastmodified":1795728400,
     "wof:name":"Chemususu",
     "wof:parent_id":1091911719,
     "wof:placetype":"locality",

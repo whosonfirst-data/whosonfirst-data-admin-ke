@@ -76,7 +76,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008300,
         1091912613
     ],
     "wof:breaches":[],
@@ -95,11 +95,11 @@
             "country_id":85632329,
             "county_id":1091912613,
             "locality_id":421170521,
-            "region_id":85672967
+            "region_id":9895008300
         }
     ],
     "wof:id":421170521,
-    "wof:lastmodified":1690938064,
+    "wof:lastmodified":1795728400,
     "wof:name":"Amakura",
     "wof:parent_id":1091912613,
     "wof:placetype":"locality",

@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008333,
         1091910953
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632329,
             "county_id":1091910953,
             "locality_id":1259519979,
-            "region_id":85672955
+            "region_id":9895008333
         }
     ],
     "wof:id":1259519979,
-    "wof:lastmodified":1566727070,
+    "wof:lastmodified":1795728400,
     "wof:name":"Pap Godero",
     "wof:parent_id":1091910953,
     "wof:placetype":"locality",

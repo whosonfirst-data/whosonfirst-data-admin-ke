@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008330,
         890437763
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":890437763,
             "locality_id":1293231549,
-            "region_id":85672947
+            "region_id":9895008330
         }
     ],
     "wof:id":1293231549,
-    "wof:lastmodified":1566726986,
+    "wof:lastmodified":1795728400,
     "wof:name":"Gathundia",
     "wof:parent_id":890437763,
     "wof:placetype":"locality",

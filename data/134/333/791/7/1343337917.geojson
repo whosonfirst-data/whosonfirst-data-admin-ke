@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008304,
         890427529
     ],
     "wof:breaches":[],
@@ -58,11 +58,11 @@
             "country_id":85632329,
             "county_id":890427529,
             "locality_id":1343337917,
-            "region_id":85672955
+            "region_id":9895008304
         }
     ],
     "wof:id":1343337917,
-    "wof:lastmodified":1566726973,
+    "wof:lastmodified":1795728400,
     "wof:name":"Andiwo's Village",
     "wof:parent_id":890427529,
     "wof:placetype":"locality",

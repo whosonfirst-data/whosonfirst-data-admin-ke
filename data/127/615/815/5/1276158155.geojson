@@ -420,7 +420,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008340,
         1091912851
     ],
     "wof:breaches":[],
@@ -435,11 +435,11 @@
             "country_id":85632329,
             "county_id":1091912851,
             "locality_id":1276158155,
-            "region_id":85672967
+            "region_id":9895008340
         }
     ],
     "wof:id":1276158155,
-    "wof:lastmodified":1636500530,
+    "wof:lastmodified":1795728400,
     "wof:name":"Luanda",
     "wof:parent_id":1091912851,
     "wof:placetype":"locality",

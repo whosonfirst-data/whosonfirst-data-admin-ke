@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008337,
         1091912757
     ],
     "wof:breaches":[],
@@ -58,11 +58,11 @@
             "country_id":85632329,
             "county_id":1091912757,
             "locality_id":1310241423,
-            "region_id":85672963
+            "region_id":9895008337
         }
     ],
     "wof:id":1310241423,
-    "wof:lastmodified":1566727023,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kiminini",
     "wof:parent_id":1091912757,
     "wof:placetype":"locality",

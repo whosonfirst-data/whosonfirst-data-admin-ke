@@ -232,7 +232,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008297,
         1091911719
     ],
     "wof:breaches":[],
@@ -252,11 +252,11 @@
             "country_id":85632329,
             "county_id":1091911719,
             "locality_id":421178451,
-            "region_id":85672963
+            "region_id":9895008297
         }
     ],
     "wof:id":421178451,
-    "wof:lastmodified":1690938067,
+    "wof:lastmodified":1795728400,
     "wof:name":"Eldama Ravine",
     "wof:parent_id":1091911719,
     "wof:placetype":"locality",

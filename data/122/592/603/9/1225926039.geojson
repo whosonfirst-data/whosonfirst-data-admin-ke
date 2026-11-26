@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672969,
+        9895008303,
         1091911249
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632329,
             "county_id":1091911249,
             "locality_id":1225926039,
-            "region_id":85672969
+            "region_id":9895008303
         }
     ],
     "wof:id":1225926039,
-    "wof:lastmodified":1566727072,
+    "wof:lastmodified":1795728400,
     "wof:name":"Sardho",
     "wof:parent_id":1091911249,
     "wof:placetype":"locality",

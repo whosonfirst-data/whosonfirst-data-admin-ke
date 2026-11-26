@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008338,
         1091912795
     ],
     "wof:breaches":[],
@@ -58,11 +58,11 @@
             "country_id":85632329,
             "county_id":1091912795,
             "locality_id":1242792979,
-            "region_id":85672963
+            "region_id":9895008338
         }
     ],
     "wof:id":1242792979,
-    "wof:lastmodified":1566727063,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kalokol",
     "wof:parent_id":1091912795,
     "wof:placetype":"locality",

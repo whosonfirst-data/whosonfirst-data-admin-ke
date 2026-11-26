@@ -93,7 +93,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672967,
+        9895008300,
         1091911075
     ],
     "wof:breaches":[],
@@ -108,11 +108,11 @@
             "country_id":85632329,
             "county_id":1091911075,
             "locality_id":1292980425,
-            "region_id":85672967
+            "region_id":9895008300
         }
     ],
     "wof:id":1292980425,
-    "wof:lastmodified":1566726990,
+    "wof:lastmodified":1795728400,
     "wof:name":"Lumino",
     "wof:parent_id":1091911075,
     "wof:placetype":"locality",

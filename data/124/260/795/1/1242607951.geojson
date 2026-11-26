@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672969,
+        9895008341,
         1091912879
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632329,
             "county_id":1091912879,
             "locality_id":1242607951,
-            "region_id":85672969
+            "region_id":9895008341
         }
     ],
     "wof:id":1242607951,
-    "wof:lastmodified":1566727058,
+    "wof:lastmodified":1795728400,
     "wof:name":"Tarbaj",
     "wof:parent_id":1091912879,
     "wof:placetype":"locality",

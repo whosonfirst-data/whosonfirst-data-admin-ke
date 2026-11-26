@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008333,
         1091912583
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632329,
             "county_id":1091912583,
             "locality_id":1209945693,
-            "region_id":85672955
+            "region_id":9895008333
         }
     ],
     "wof:id":1209945693,
-    "wof:lastmodified":1566727011,
+    "wof:lastmodified":1795728400,
     "wof:name":"Akala",
     "wof:parent_id":1091912583,
     "wof:placetype":"locality",

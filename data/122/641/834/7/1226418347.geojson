@@ -40,7 +40,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672959,
+        9895008305,
         1091911367
     ],
     "wof:breaches":[],
@@ -55,11 +55,11 @@
             "country_id":85632329,
             "county_id":1091911367,
             "locality_id":1226418347,
-            "region_id":85672959
+            "region_id":9895008305
         }
     ],
     "wof:id":1226418347,
-    "wof:lastmodified":1566727080,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mado Yaka",
     "wof:parent_id":1091911367,
     "wof:placetype":"locality",

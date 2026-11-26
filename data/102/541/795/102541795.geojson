@@ -62,7 +62,7 @@
     },
     "wof:belongsto":[
         85632329,
-        85672943
+        9895008317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,13 +78,13 @@
         {
             "campus_id":102541795,
             "country_id":85632329,
-            "region_id":85672943
+            "region_id":9895008317
         }
     ],
     "wof:id":102541795,
-    "wof:lastmodified":1690938035,
+    "wof:lastmodified":1795728400,
     "wof:name":"Lamu Airport",
-    "wof:parent_id":85672943,
+    "wof:parent_id":9895008317,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:superseded_by":[],

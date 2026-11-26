@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008328,
         1091912451
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091912451,
             "locality_id":1210047155,
-            "region_id":85672963
+            "region_id":9895008328
         }
     ],
     "wof:id":1210047155,
-    "wof:lastmodified":1566727014,
+    "wof:lastmodified":1795728400,
     "wof:name":"Iminuet",
     "wof:parent_id":1091912451,
     "wof:placetype":"locality",

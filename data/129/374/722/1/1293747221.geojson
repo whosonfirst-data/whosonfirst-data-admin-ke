@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672955,
+        9895008304,
         1091911319
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911319,
             "locality_id":1293747221,
-            "region_id":85672955
+            "region_id":9895008304
         }
     ],
     "wof:id":1293747221,
-    "wof:lastmodified":1566726991,
+    "wof:lastmodified":1795728400,
     "wof:name":"Nyowita",
     "wof:parent_id":1091911319,
     "wof:placetype":"locality",

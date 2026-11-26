@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672963,
+        9895008301,
         1091911493
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":1091911493,
             "locality_id":1243538023,
-            "region_id":85672963
+            "region_id":9895008301
         }
     ],
     "wof:id":1243538023,
-    "wof:lastmodified":1566727055,
+    "wof:lastmodified":1795728400,
     "wof:name":"Biretwo",
     "wof:parent_id":1091911493,
     "wof:placetype":"locality",

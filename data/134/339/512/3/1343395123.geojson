@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008334,
         890442857
     ],
     "wof:breaches":[],
@@ -49,11 +49,11 @@
             "country_id":85632329,
             "county_id":890442857,
             "locality_id":1343395123,
-            "region_id":85672943
+            "region_id":9895008334
         }
     ],
     "wof:id":1343395123,
-    "wof:lastmodified":1566726968,
+    "wof:lastmodified":1795728400,
     "wof:name":"Figini",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",

@@ -169,7 +169,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672969
+        9895008341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -184,13 +184,13 @@
             "continent_id":102191573,
             "country_id":85632329,
             "county_id":1091912879,
-            "region_id":85672969
+            "region_id":9895008341
         }
     ],
     "wof:id":1091912879,
-    "wof:lastmodified":1695886758,
+    "wof:lastmodified":1795728400,
     "wof:name":"Wajir",
-    "wof:parent_id":85672969,
+    "wof:parent_id":9895008341,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":319261,

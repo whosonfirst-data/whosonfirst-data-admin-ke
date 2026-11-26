@@ -45,7 +45,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008309,
         1091912681
     ],
     "wof:breaches":[],
@@ -60,11 +60,11 @@
             "country_id":85632329,
             "county_id":1091912681,
             "locality_id":1226601217,
-            "region_id":85672947
+            "region_id":9895008309
         }
     ],
     "wof:id":1226601217,
-    "wof:lastmodified":1566727075,
+    "wof:lastmodified":1795728400,
     "wof:name":"Mangu",
     "wof:parent_id":1091912681,
     "wof:placetype":"locality",

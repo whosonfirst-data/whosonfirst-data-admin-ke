@@ -51,7 +51,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672947,
+        9895008325,
         1091911931
     ],
     "wof:breaches":[],
@@ -66,11 +66,11 @@
             "country_id":85632329,
             "county_id":1091911931,
             "locality_id":1276810615,
-            "region_id":85672947
+            "region_id":9895008325
         }
     ],
     "wof:id":1276810615,
-    "wof:lastmodified":1566726994,
+    "wof:lastmodified":1795728400,
     "wof:name":"Heho",
     "wof:parent_id":1091911931,
     "wof:placetype":"locality",

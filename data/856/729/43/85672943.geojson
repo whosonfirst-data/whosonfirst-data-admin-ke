@@ -2,7 +2,7 @@
   "id": 85672943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2013",
     "edtf:inception":"uuuu",
     "geom:area":6.752636,
     "geom:area_square_m":83401926599.624802,
@@ -27,7 +27,7 @@
     "mps:latitude":-2.439703,
     "mps:longitude":39.502392,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
     "name:afr_x_preferred":[
@@ -440,13 +440,20 @@
         "eng",
         "swa"
     ],
-    "wof:lastmodified":1695884286,
+    "wof:lastmodified":1795728400,
     "wof:name":"Coast",
     "wof:parent_id":85632329,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-ke",
     "wof:shortcode":"CO",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008310,
+        9895008315,
+        9895008317,
+        9895008324,
+        9895008334,
+        9895008335
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

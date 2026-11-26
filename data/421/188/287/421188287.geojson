@@ -51,7 +51,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008324,
         1091912207
     ],
     "wof:breaches":[],
@@ -70,11 +70,11 @@
             "country_id":85632329,
             "county_id":1091912207,
             "locality_id":421188287,
-            "region_id":85672943
+            "region_id":9895008324
         }
     ],
     "wof:id":421188287,
-    "wof:lastmodified":1690938057,
+    "wof:lastmodified":1795728400,
     "wof:name":"Kisauni",
     "wof:parent_id":1091912207,
     "wof:placetype":"locality",

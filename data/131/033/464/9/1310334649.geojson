@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632329,
-        85672943,
+        9895008334,
         890442857
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632329,
             "county_id":890442857,
             "locality_id":1310334649,
-            "region_id":85672943
+            "region_id":9895008334
         }
     ],
     "wof:id":1310334649,
-    "wof:lastmodified":1566727031,
+    "wof:lastmodified":1795728400,
     "wof:name":"Wumingu",
     "wof:parent_id":890442857,
     "wof:placetype":"locality",
