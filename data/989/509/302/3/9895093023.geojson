@@ -1,0 +1,75 @@
+{
+  "id": 9895093023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.59466,0.17124,34.59466,0.17124",
+    "geom:latitude":0.17124,
+    "geom:longitude":34.59466,
+    "gn:population":113294,
+    "iso:country":"KE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 192785: name \"Khwisero\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/192785"
+        },
+        {
+            "citation":"GeoNames populated place 192785: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/192785"
+        },
+        {
+            "citation":"GeoNames populated place 192785: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/192785"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091911121 (Butere/mumias), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329,
+        102191573,
+        1091911121,
+        9895008307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":192785
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"f10ba727cbb40d0c43a72cae7dc740f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911121,
+            "locality_id":9895093023,
+            "region_id":9895008307
+        }
+    ],
+    "wof:id":9895093023,
+    "wof:lastmodified":1795747145,
+    "wof:name":"Khwisero",
+    "wof:parent_id":1091911121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.59466,
+    0.17124,
+    34.59466,
+    0.17124
+],
+  "geometry": {"coordinates":[34.59466,0.17124],"type":"Point"}
+}

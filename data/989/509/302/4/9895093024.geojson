@@ -1,0 +1,73 @@
+{
+  "id": 9895093024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88021,-1.32323,36.88021,-1.32323",
+    "geom:latitude":-1.32323,
+    "geom:longitude":36.88021,
+    "gn:population":52837,
+    "iso:country":"KE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8477754: name \"Imara Daima Estate\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8477754"
+        },
+        {
+            "citation":"GeoNames populated place 8477754: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8477754"
+        },
+        {
+            "citation":"GeoNames populated place 8477754: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8477754"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85672951 (Nairobi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329,
+        85672951,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8477754
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"66f2f37f3c07a15a5003f48ecb7144ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "locality_id":9895093024,
+            "region_id":85672951
+        }
+    ],
+    "wof:id":9895093024,
+    "wof:lastmodified":1795747145,
+    "wof:name":"Imara Daima Estate",
+    "wof:parent_id":85672951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88021,
+    -1.32323,
+    36.88021,
+    -1.32323
+],
+  "geometry": {"coordinates":[36.88021,-1.32323],"type":"Point"}
+}

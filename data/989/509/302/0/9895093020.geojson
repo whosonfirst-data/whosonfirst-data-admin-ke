@@ -1,0 +1,75 @@
+{
+  "id": 9895093020,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.45482,-1.35255,37.45482,-1.35255",
+    "geom:latitude":-1.35255,
+    "geom:longitude":37.45482,
+    "gn:population":181896,
+    "iso:country":"KE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 185131: name \"Mwala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/185131"
+        },
+        {
+            "citation":"GeoNames populated place 185131: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/185131"
+        },
+        {
+            "citation":"GeoNames populated place 185131: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/185131"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091911873 (Machakos), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329,
+        102191573,
+        1091911873,
+        9895008318
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":185131
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"dca1c2d2fed2bb43f9c74c3ac6435903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091911873,
+            "locality_id":9895093020,
+            "region_id":9895008318
+        }
+    ],
+    "wof:id":9895093020,
+    "wof:lastmodified":1795747145,
+    "wof:name":"Mwala",
+    "wof:parent_id":1091911873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.45482,
+    -1.35255,
+    37.45482,
+    -1.35255
+],
+  "geometry": {"coordinates":[37.45482,-1.35255],"type":"Point"}
+}

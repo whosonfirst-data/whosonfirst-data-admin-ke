@@ -1,0 +1,75 @@
+{
+  "id": 9895093021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.72139,0.08213,34.72139,0.08213",
+    "geom:latitude":0.08213,
+    "geom:longitude":34.72139,
+    "gn:population":60000,
+    "iso:country":"KE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 187113: name \"Mbale\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/187113"
+        },
+        {
+            "citation":"GeoNames populated place 187113: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/187113"
+        },
+        {
+            "citation":"GeoNames populated place 187113: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/187113"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091912851 (Vihiga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329,
+        102191573,
+        1091912851,
+        9895008340
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":187113
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"ca23bb1e794d9abc954306fe8447c47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912851,
+            "locality_id":9895093021,
+            "region_id":9895008340
+        }
+    ],
+    "wof:id":9895093021,
+    "wof:lastmodified":1795747145,
+    "wof:name":"Mbale",
+    "wof:parent_id":1091912851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.72139,
+    0.08213,
+    34.72139,
+    0.08213
+],
+  "geometry": {"coordinates":[34.72139,0.08213],"type":"Point"}
+}

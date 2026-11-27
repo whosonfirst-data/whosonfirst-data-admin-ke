@@ -1,0 +1,75 @@
+{
+  "id": 9895093026,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40865,0.02538,36.40865,0.02538",
+    "geom:latitude":0.02538,
+    "geom:longitude":36.40865,
+    "gn:population":30527,
+    "iso:country":"KE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12687281: name \"Mairo Inya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12687281"
+        },
+        {
+            "citation":"GeoNames populated place 12687281: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12687281"
+        },
+        {
+            "citation":"GeoNames populated place 12687281: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12687281"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890437763 (Nyandarua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632329,
+        102191573,
+        890437763,
+        9895008330
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12687281
+    },
+    "wof:country":"KE",
+    "wof:geomhash":"317a5e4887a0dd85673c0bd63ed25156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":890437763,
+            "locality_id":9895093026,
+            "region_id":9895008330
+        }
+    ],
+    "wof:id":9895093026,
+    "wof:lastmodified":1795747145,
+    "wof:name":"Mairo Inya",
+    "wof:parent_id":890437763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ke",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40865,
+    0.02538,
+    36.40865,
+    0.02538
+],
+  "geometry": {"coordinates":[36.40865,0.02538],"type":"Point"}
+}
